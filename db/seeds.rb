@@ -7,8 +7,8 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 bird_a = Bird.create(name: "Black-Capped Chickadee", species: "Poecile Atricapillus")
-bird_b = Bird.create(name: "Grackle", species: "Quiscalus Quiscula")
-bird_c = Bird.create(name: "Common Starling", species: "Sturnus Vulgaris")
+bird_b = Bird.create(name: "Purple Grackle", species: "Quiscalus Quiscula")
+bird_c = Bird.create(name: "European Starling", species: "Sturnus Vulgaris")
 bird_d = Bird.create(name: "Mourning Dove", species: "Zenaida Macroura")
 
 location_a = Location.create(latitude: "40.730610", longitude: "-73.935242")
